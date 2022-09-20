@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+}
+.outermost-shell{
+    width: auto;
+    padding: auto;
+}
+.menu{
+    text-align: center;
+    align-items: center;
+    color: black;
+}
+.innermost-shell{
+    border: 2px solid black;
+    width: 100%;
+    margin: 5px;
+    display: block;
+    background-color: rgb(212, 212, 212);
+    padding-top: 20px; 
+}
+.chicken{
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+}
