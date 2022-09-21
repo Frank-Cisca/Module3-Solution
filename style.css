@@ -13,15 +13,20 @@
     color: black;
 }
 .innermost-shell{
-    border: 2px solid black;
+    border: 0;
     width: 100%;
     margin: 5px;
     display: block;
     background-color: rgb(212, 212, 212);
-    padding-top: 20px; 
+    padding: 20px; 
 }
 .chicken{
     text-align: center;
     font-weight: bold;
     font-size: medium;
+}
+#header-nav{
+    background-color: rgb(212, 212, 212);
+    border-radius: 0;
+    border: 0;
 }
